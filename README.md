@@ -1,0 +1,3 @@
+- 👀 I’m interested in terraform, dotnet, azure, changing organizations with code & ideas, IETF, software patterns, ideas 
+- 🌱 I’m currently learning AKS/K8s
+- 📫 How to reach me - email, ms teams, linkedin, twitter
