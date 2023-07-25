@@ -1,3 +1,3 @@
-- 👀 I’m interested in terraform, dotnet, azure, changing organizations with code & ideas, software patterns, ideas 
-- 🌱 I’m currently learning AKS/K8s, terraform
-- 📫 How to reach me - email, ms teams, linkedin, twitter
+- 👀 I’m interested in building software in C#. Mostly line of business software
+- 🌱 I’m currently learning React
+- 📫 How to reach me - https://www.linkedin.com/in/joshrobinson/
